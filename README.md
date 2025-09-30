@@ -31,8 +31,8 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulogdev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulogdev&layout=compact&theme=radical)
 
 ---
