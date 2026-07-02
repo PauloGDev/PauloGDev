@@ -1,275 +1,220 @@
+<!-- ===================================================== -->
+<!--                   PAULO OLIVEIRA                      -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-# 👋 Hello, I'm Paulo Oliveira
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Paulo%20Oliveira&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58"/>
 
-### Full Stack Software Developer | Java • Spring Boot • React • PostgreSQL
+</div>
 
-Passionate about building scalable, secure and high-performance web applications.
+<div align="center">
 
-<p>
-<a href="https://www.linkedin.com/in/paulo-oliveira-9932912b5/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=27&duration=3000&pause=900&center=true&vCenter=true&width=900&color=3DDC84&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
+
+</div>
+
+<br>
+
+<div align="center">
 
 <a href="mailto:paulovops@outlook.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/paulo-oliveira-9932912b5/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/PauloGDev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
-
----
-
-### 🚀 Building Software That Solves Real Problems
+<img src="https://komarev.com/ghpvc/?username=PauloGDev&style=for-the-badge&color=3DDC84"/>
 
 </div>
 
-# 👨‍💻 About Me
+---
 
-I'm a **Full Stack Software Developer** specialized in **Java and Spring Boot**, focused on building scalable backend systems and modern web applications.
+# 👋 About Me
 
-I enjoy transforming ideas into complete products—from database modeling and API design to frontend development and deployment.
+```java
+public class PauloOliveira {
 
-My experience includes developing complete applications such as:
+    String role = "Full Stack Software Developer";
+
+    String[] specialization = {
+        "Java",
+        "Spring Boot",
+        "Backend Development",
+        "React",
+        "Software Engineering"
+    };
+
+    String[] currentlyLearning = {
+        "Microservices",
+        "Docker",
+        "AWS",
+        "CI/CD",
+        "Software Architecture"
+    };
+
+    String[] interests = {
+        "Backend Development",
+        "Scalable Systems",
+        "Cloud Computing",
+        "Clean Architecture",
+        "REST APIs"
+    };
+}
+```
+
+I'm a **Full Stack Software Developer** passionate about building scalable, secure and modern applications.
+
+My primary focus is **Java Backend Development**, designing robust REST APIs with **Spring Boot**, while also creating responsive frontend applications using **React** and **Next.js**.
+
+I enjoy turning ideas into complete products, from database modeling to deployment in production environments.
+
+I have developed complete systems including:
 
 - 🍽 Restaurant SaaS
 - 🎓 Student Management System
 - 🚗 Dealership Management System
-- 🛒 E-Commerce Platform
+- 🛒 E-commerce Platform
 
-My goal is to become an exceptional Software Engineer by continuously improving my technical skills and contributing to impactful projects.
-
-Currently looking for **Backend Java**, **Full Stack**, and **Software Engineer** opportunities.
+My goal is to become an outstanding Software Engineer by continuously learning and building impactful software.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-## 💻 Languages
+## Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
 
-## ⚙ Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square)
+</p>
 
 ---
 
-## 🎨 Frontend
+## Backend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
 
-## 🗄 Database
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-blue?style=for-the-badge"/>
 
-## ☁ DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Railway](https://img.shields.io/badge/Railway-black?style=flat-square)
+</p>
 
 ---
 
-# 🏆 Featured Projects
+## Frontend
 
-## 🍽 Restaurant SaaS
+<p align="center">
 
-A complete SaaS platform developed for restaurant management.
+<img src="https://skillicons.dev/icons?i=react,nextjs"/>
 
-### Features
-
-- Authentication & Authorization
-- Digital Menu
-- Table Management
-- Order Tracking
-- Kitchen Dashboard
-- Administrative Panel
-- Responsive UI
-- REST APIs
-- PostgreSQL Database
-
-**Stack**
-
-Java • Spring Boot • Spring Security • React • PostgreSQL • Docker
-
-➡ Repository:
-https://github.com/PauloGDev/DigitalTricks-Restaurant-OpenSource
+</p>
 
 ---
 
-## 🎓 Student Management System
+## Database
 
-A production-ready Full Stack academic management platform.
+<p align="center">
 
-### Features
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 
-- Student Management
-- Teacher Management
-- Course Management
-- Enrollment System
-- Authentication with JWT
-- Role-Based Access Control
-- Dashboard
-- Responsive Interface
-- CRUD Operations
-- REST APIs
-- Database Management
-- Validation & Exception Handling
-
-**Stack**
-
-Java • Spring Boot • Spring Security • Hibernate • React • PostgreSQL • Docker • Swagger
+</p>
 
 ---
 
-## 🚗 Dealership Management System
+## DevOps
 
-Vehicle dealership management platform.
+<p align="center">
 
-### Features
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux"/>
 
-- Customer Management
-- Vehicle Inventory
-- Sales Control
-- Authentication
-- Dashboard
-- Reports
-- REST APIs
+</p>
 
-**Stack**
+<p align="center">
 
-Java • Spring Boot • PostgreSQL • React • JWT
+<img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge"/>
 
-➡ Repository:
-https://github.com/PauloGDev/DigitalTricks-Concessionarias
+</p>
 
 ---
 
-## 🛒 E-Commerce Platform
+## Software Engineering
 
-Modern e-commerce application.
+<p align="center">
 
-### Features
+<img src="https://img.shields.io/badge/Clean%20Code-222222?style=for-the-badge"/>
 
-- Authentication
-- Product Catalog
-- Shopping Cart
-- Checkout
-- Payment Integration
-- Admin Dashboard
-- Order Management
+<img src="https://img.shields.io/badge/SOLID-00599C?style=for-the-badge"/>
 
-**Stack**
+<img src="https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=for-the-badge"/>
 
-Java • Spring Boot • React • PostgreSQL • Docker
+<img src="https://img.shields.io/badge/OOP-FF9800?style=for-the-badge"/>
 
-➡ Repository:
-https://github.com/PauloGDev/sistema-ecommerce-completo
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kanban-1976D2?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 📚 Software Engineering
-
-I enjoy applying modern software engineering principles:
-
-- Clean Code
-- SOLID Principles
-- Layered Architecture
-- Object-Oriented Programming
-- RESTful API Design
-- Database Modeling
-- Responsive Design
-- Functional Testing
-- Version Control
-- Agile Methodologies
-
----
-
-# 🌱 Currently Learning
-
-- Microservices
-- Docker Advanced
-- Kubernetes
-- AWS
-- CI/CD
-- Design Patterns
-- Software Architecture
-
----
-
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloGDev&show_icons=true&theme=github_dark&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloGDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloGDev&layout=compact&theme=github_dark&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloGDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PauloGDev&theme=github-dark&hide_border=true)
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PauloGDev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 Career Goals
-
-✔ Build scalable backend systems
-
-✔ Master Software Architecture
-
-✔ Contribute to international teams
-
-✔ Become a Senior Java Engineer
-
-✔ Continuously learn new technologies
-
----
-
-# 📫 Contact
-
-📧 **Email**
-
-paulovops@outlook.com
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/paulo-oliveira-9932912b5/
-
-🐙 **GitHub**
-
-https://github.com/PauloGDev
-
----
+# 📈 Contribution Graph
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-Always open to collaborating on interesting projects and connecting with other developers.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloGDev&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PauloGDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+> Continue na **Parte 2**...
