@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Paulo%20Oliveira&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0D0221,25:240046,50:5A189A,75:00F5D4,100:00BBF9&text=PAULO%20OLIVEIRA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=JAVA%20BACKEND%20%20•%20%20SPRING%20BOOT%20%20•%20%20FULLSTACK%20ENGINEER&descSize=18&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=900&center=true&vCenter=true&width=900&height=70&color=00F5D4&background=00000000&lines=Java+Backend+Developer;Spring+Boot+Engineer;REST+API+Architect;React+%26+Next.js+Developer;Building+Scalable+Software;Always+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=27&duration=3000&pause=900&center=true&vCenter=true&width=900&color=3DDC84&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 
 <br><br>
 
