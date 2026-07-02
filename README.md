@@ -1,212 +1,277 @@
-# Hi there, I'm Paulo Oliveira 👋
-
+```markdown
 <div align="center">
 
-### Full Stack Developer | Java & Spring Boot | React | Software Engineer
+# 👋 Hello, I'm Paulo Oliveira
 
-Building scalable, secure and modern web applications.
+### Full Stack Software Developer | Java • Spring Boot • React • PostgreSQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paulo-oliveira-9932912b5/)
-[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PauloGDev)
+Passionate about building scalable, secure and high-performance web applications.
+
+<p>
+<a href="https://www.linkedin.com/in/paulo-oliveira-9932912b5/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:paulovops@outlook.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PauloGDev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+### 🚀 Building Software That Solves Real Problems
 
 </div>
 
----
+# 👨‍💻 About Me
 
-# 🚀 About Me
+I'm a **Full Stack Software Developer** specialized in **Java and Spring Boot**, focused on building scalable backend systems and modern web applications.
 
-I'm a Full Stack Software Developer passionate about building scalable, maintainable and high-performance applications.
+I enjoy transforming ideas into complete products—from database modeling and API design to frontend development and deployment.
 
-My main expertise is backend development with Java and Spring Boot, but I also enjoy creating modern frontend applications using React and Next.js.
+My experience includes developing complete applications such as:
 
-I have experience developing complete systems, from database modeling to cloud deployment, following software engineering best practices such as Clean Architecture, SOLID principles and RESTful API design.
+- 🍽 Restaurant SaaS
+- 🎓 Student Management System
+- 🚗 Dealership Management System
+- 🛒 E-Commerce Platform
 
-Currently looking for Backend Java, Full Stack and Software Engineer opportunities, especially remote and international positions.
+My goal is to become an exceptional Software Engineer by continuously improving my technical skills and contributing to impactful projects.
 
----
-
-# 💻 Tech Stack
-
-## Backend
-
-- Java
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- JWT Authentication
-- Maven
-
-## Frontend
-
-- React
-- Next.js
-- JavaScript
-- HTML5
-- CSS3
-
-## Database
-
-- PostgreSQL
-- MySQL
-- SQL
-
-## DevOps
-
-- Docker
-- Linux
-- NGINX
-- Railway
-
-## Tools
-
-- Git
-- GitHub
-- Swagger
-- IntelliJ IDEA
-- VS Code
-
-## Software Engineering
-
-- Clean Code
-- SOLID
-- Layered Architecture
-- RESTful APIs
-- Object-Oriented Programming
-- Agile (Scrum & Kanban)
+Currently looking for **Backend Java**, **Full Stack**, and **Software Engineer** opportunities.
 
 ---
 
-# 📂 Featured Projects
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+
+---
+
+## ⚙ Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square)
+
+---
+
+## 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+
+---
+
+## 🗄 Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+
+---
+
+## ☁ DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Railway](https://img.shields.io/badge/Railway-black?style=flat-square)
+
+---
+
+# 🏆 Featured Projects
 
 ## 🍽 Restaurant SaaS
 
-Complete SaaS platform for restaurants featuring:
+A complete SaaS platform developed for restaurant management.
 
+### Features
+
+- Authentication & Authorization
 - Digital Menu
 - Table Management
-- Order Management
+- Order Tracking
 - Kitchen Dashboard
-- Authentication & Authorization
 - Administrative Panel
+- Responsive UI
 - REST APIs
 - PostgreSQL Database
 
 **Stack**
 
-Java • Spring Boot • Spring Security • PostgreSQL • React • JWT • Docker
+Java • Spring Boot • Spring Security • React • PostgreSQL • Docker
+
+➡ Repository:
+https://github.com/PauloGDev/DigitalTricks-Restaurant-OpenSource
 
 ---
 
 ## 🎓 Student Management System
 
-Complete Full Stack academic management platform.
+A production-ready Full Stack academic management platform.
 
 ### Features
 
 - Student Management
 - Teacher Management
 - Course Management
-- Authentication
+- Enrollment System
+- Authentication with JWT
 - Role-Based Access Control
 - Dashboard
+- Responsive Interface
 - CRUD Operations
 - REST APIs
-- Responsive Frontend
+- Database Management
+- Validation & Exception Handling
 
 **Stack**
 
-Java • Spring Boot • Spring Security • Hibernate • PostgreSQL • React • JWT • Docker • Swagger
+Java • Spring Boot • Spring Security • Hibernate • React • PostgreSQL • Docker • Swagger
 
 ---
 
 ## 🚗 Dealership Management System
 
-Management system for vehicle dealerships.
+Vehicle dealership management platform.
 
 ### Features
 
-- Vehicle Inventory
 - Customer Management
-- Sales Management
+- Vehicle Inventory
+- Sales Control
 - Authentication
-- Administrative Dashboard
+- Dashboard
+- Reports
 - REST APIs
 
 **Stack**
 
-Java • Spring Boot • PostgreSQL • React • JWT • Docker
+Java • Spring Boot • PostgreSQL • React • JWT
+
+➡ Repository:
+https://github.com/PauloGDev/DigitalTricks-Concessionarias
 
 ---
 
 ## 🛒 E-Commerce Platform
 
-Complete e-commerce solution.
+Modern e-commerce application.
 
 ### Features
 
+- Authentication
 - Product Catalog
 - Shopping Cart
-- User Authentication
+- Checkout
 - Payment Integration
+- Admin Dashboard
 - Order Management
-- Administrative Dashboard
 
 **Stack**
 
-Java • Spring Boot • React • PostgreSQL • JWT • Docker
+Java • Spring Boot • React • PostgreSQL • Docker
+
+➡ Repository:
+https://github.com/PauloGDev/sistema-ecommerce-completo
 
 ---
 
-# 📈 What I'm Currently Learning
+# 📚 Software Engineering
+
+I enjoy applying modern software engineering principles:
+
+- Clean Code
+- SOLID Principles
+- Layered Architecture
+- Object-Oriented Programming
+- RESTful API Design
+- Database Modeling
+- Responsive Design
+- Functional Testing
+- Version Control
+- Agile Methodologies
+
+---
+
+# 🌱 Currently Learning
 
 - Microservices
-- Docker & Containers
-- Cloud Computing
+- Docker Advanced
+- Kubernetes
 - AWS
 - CI/CD
-- Kubernetes
+- Design Patterns
 - Software Architecture
 
 ---
 
-# 🌎 Languages
+# 📈 GitHub Statistics
 
-🇧🇷 Portuguese — Native
+<div align="center">
 
-🇺🇸 English — Intermediate (Improving daily)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloGDev&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloGDev&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PauloGDev&theme=github-dark&hide_border=true)
+
+</div>
+
+---
+
+# 🎯 Career Goals
+
+✔ Build scalable backend systems
+
+✔ Master Software Architecture
+
+✔ Contribute to international teams
+
+✔ Become a Senior Java Engineer
+
+✔ Continuously learn new technologies
 
 ---
 
 # 📫 Contact
 
-📧 paulovops@outlook.com
+📧 **Email**
 
-💼 LinkedIn
+paulovops@outlook.com
+
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/paulo-oliveira-9932912b5/
 
-💻 GitHub
+🐙 **GitHub**
 
 https://github.com/PauloGDev
 
 ---
 
-# ⚡ Fun Facts
-
-- ☕ Coffee-powered developer
-- 💡 Passionate about Software Engineering
-- 🚀 Always learning new technologies
-- 🎯 Focused on Java Backend Development
-- 🌍 Open to Remote & International Opportunities
-
----
-
 <div align="center">
 
-### Thanks for visiting my profile! 🚀
+### ⭐ Thanks for visiting my profile!
 
-Feel free to explore my repositories and connect with me.
+Always open to collaborating on interesting projects and connecting with other developers.
 
 </div>
+```
