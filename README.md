@@ -451,28 +451,6 @@ I'm constantly improving my skills in:
 
 ---
 
-# 🚧 Current Roadmap
-
-| Status | Learning |
-|---------|----------|
-| ✅ | Java Core |
-| ✅ | Spring Boot |
-| ✅ | Spring Security |
-| ✅ | Hibernate / JPA |
-| ✅ | REST APIs |
-| ✅ | React |
-| ✅ | PostgreSQL |
-| ✅ | Docker |
-| 🟨 | Microservices |
-| 🟨 | AWS |
-| 🟨 | CI/CD |
-| 🟨 | Kubernetes |
-| 🟨 | Spring Cloud |
-| 🟨 | Redis |
-| 🟨 | Apache Kafka |
-
----
-
 # 💡 Fun Facts
 
 ```java
@@ -593,16 +571,6 @@ Feel free to open an Issue or Pull Request!
 > **Configure this GitHub Action to enable the animation**
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📈 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=PauloGDev&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
