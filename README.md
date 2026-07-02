@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 👋 Hello, I'm Paulo Oliveira
@@ -274,4 +273,3 @@ https://github.com/PauloGDev
 Always open to collaborating on interesting projects and connecting with other developers.
 
 </div>
-```
