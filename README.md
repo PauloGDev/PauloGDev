@@ -1,7 +1,3 @@
-<!-- ===================================================== -->
-<!--                   PAULO OLIVEIRA                      -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0D0221,25:240046,50:5A189A,75:00F5D4,100:00BBF9&text=PAULO%20OLIVEIRA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=JAVA%20BACKEND%20%20•%20%20SPRING%20BOOT%20%20•%20%20FULLSTACK%20ENGINEER&descSize=18&descAlignY=58"/>
@@ -41,6 +37,12 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=PauloGDev&label=PROFILE+VIEWS&color=00F5D4&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
 
 </div>
 
