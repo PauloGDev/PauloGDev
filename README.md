@@ -4,33 +4,43 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Paulo%20Oliveira&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=27&duration=3000&pause=900&center=true&vCenter=true&width=900&color=3DDC84&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0D0221,25:240046,50:5A189A,75:00F5D4,100:00BBF9&text=PAULO%20OLIVEIRA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=JAVA%20BACKEND%20%20•%20%20SPRING%20BOOT%20%20•%20%20FULLSTACK%20ENGINEER&descSize=18&descAlignY=58"/>
 
 <br>
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=900&center=true&vCenter=true&width=900&height=70&color=00F5D4&background=00000000&lines=Java+Backend+Developer;Spring+Boot+Engineer;REST+API+Architect;React+%26+Next.js+Developer;Building+Scalable+Software;Always+Learning"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-00F5D4?style=for-the-badge&labelColor=0D0221"/>
+
+<img src="https://img.shields.io/badge/LOCATION-Brazil-7B2CBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OPEN_TO_REMOTE-YES-00C853?style=for-the-badge"/>
+
+<br><br>
 
 <a href="mailto:paulovops@outlook.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/paulo-oliveira-9932912b5/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
 <a href="https://github.com/PauloGDev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=PauloGDev&style=for-the-badge&color=3DDC84"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=PauloGDev&label=PROFILE+VIEWS&color=00F5D4&style=for-the-badge"/>
 
 </div>
 
